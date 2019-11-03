@@ -1,32 +1,4 @@
-/*
-=====================================================================
 
-*   Sparrow v1.0.1 Layout Stylesheet
-*   url: styleshout.com
-*   03-05-2014
-
-=====================================================================
-
-   TOC:
-   a. Common Styles.
-   b. Header Styles.
-   c. Intro Section - Main Page.
-   d. Info Section - Main Page.
-   e. Works Section - Main Page.
-   f. Journal Section - Main Page.
-   g. Call-To-Action Section - Main Page.
-   h. Tweets Section - Main Page.
-   i. Blog.
-   j. Porfolio.
-   k. About.
-   l. Contact.
-   m. Footer.
-
-===================================================================== */
-
-/* ------------------------------------------------------------------ */
-/* a. Common Styles
-/* ------------------------------------------------------------------ */
 
 body { background: #D2D8D8 url(../images/bg.jpg); }
 img { border-radius: 3px; }
