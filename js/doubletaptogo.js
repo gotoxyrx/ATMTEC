@@ -1,6 +1,4 @@
-/*
-	AUTHOR: Osvaldas Valutis, www.osvaldas.info
-*/
+
 
 
 
